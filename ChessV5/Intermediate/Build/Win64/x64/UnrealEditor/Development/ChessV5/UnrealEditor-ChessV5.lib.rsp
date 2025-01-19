@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-ChessV5.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"E:\Gotham\ChessGamePvP\ChessV5\ChessV5\Intermediate\Build\Win64\x64\ChessV5Editor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.obj"
+"E:\Gotham\ChessGamePvP\ChessV5\ChessV5\Intermediate\Build\Win64\x64\UnrealEditor\Development\ChessV5\ChessV5.cpp.obj"
+"E:\Gotham\ChessGamePvP\ChessV5\ChessV5\Intermediate\Build\Win64\x64\UnrealEditor\Development\ChessV5\Default.rc2.res"
+/OUT:"E:\Gotham\ChessGamePvP\ChessV5\ChessV5\Intermediate\Build\Win64\x64\UnrealEditor\Development\ChessV5\UnrealEditor-ChessV5.lib"

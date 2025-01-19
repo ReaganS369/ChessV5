@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "e:\\gotham\\chessgamepvp\\chessv5\\chessv5\\source\\chessv5\\chessv5.cpp",
+        "ProvidedModule": "",
+        "PCH": "e:\\gotham\\chessgamepvp\\chessv5\\chessv5\\intermediate\\build\\win64\\x64\\chessv5editor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "e:\\gotham\\chessgamepvp\\chessv5\\chessv5\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\chessv5\\definitions.chessv5.h",
+            "e:\\gotham\\chessgamepvp\\chessv5\\chessv5\\source\\chessv5\\chessv5.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

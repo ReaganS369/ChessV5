@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "ChessV5",
+			"Path": "..\\Source\\ChessV5.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "ChessV5Editor",
+			"Path": "..\\Source\\ChessV5Editor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
